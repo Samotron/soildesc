@@ -1,0 +1,7 @@
+* soildesc
+
+A Clojure library designed to work with BS5930 Format soil descriptions.
+
+** Usage
+
+call the functions - not yet currently implemented
